@@ -106,14 +106,6 @@
 .two_columns__brief{
   margin: 0;
   width: 175px;
-}
-
-.two_columns__main-text{
-  width: 80%;
-  min-width: 784px;
-}
-
-.two_columns__brief{
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -121,6 +113,8 @@
 }
 
 .two_columns__main-text{
+  width: 80%;
+  min-width: 784px;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -290,9 +284,6 @@
   width: 1100px;
   flex-wrap: wrap;
   justify-content: space-between;
-}
-
-.table-theme-dark{
   margin-bottom: 90px;
   z-index: 1;
 }
@@ -341,6 +332,10 @@
 
 .footer__author{
   margin: 18px 0;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
 }
 
 
@@ -362,13 +357,6 @@
   margin-top: 20px;
   margin-bottom: 16px;
   list-style-type: none;
-}
-
-.footer__author{
-  line-height: 25px;
-  font-size: 18px;
-  font-weight: normal;
-  color: white;
 }
 
 .footer__column-heading{
