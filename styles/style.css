@@ -344,10 +344,6 @@
   flex-direction: column;
 }
 
-.footer__column-heading{
-  margin: 0;
-}
-
 .footer__column-links{
   display: flex;
   flex-direction: column;
@@ -360,6 +356,7 @@
 }
 
 .footer__column-heading{
+  margin: 0;
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
