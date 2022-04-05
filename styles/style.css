@@ -230,17 +230,17 @@
   overflow: hidden;
 }
 
-.section-title_theme-dark {
+.section-title_theme_dark {
   margin-top: 90px;
   z-index: 1;
 }
 
-.section-subtitle_theme-dark {
+.section-subtitle_theme_dark {
   margin-top: 20px;
   z-index: 1;
 }
 
-.table_theme-dark {
+.table_theme_dark {
   padding: 0;
   display: flex;
   width: 1100px;
@@ -251,7 +251,7 @@
 }
 
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme-dark {
+.table__cell_theme_dark {
   width: 200px;
   margin-right: 0;
   margin-top: 80px;
