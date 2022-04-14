@@ -6,7 +6,7 @@
   width: 568px;
   background-color: #2f80ed;
   background-size: cover;
-  animation: square-pic-rotation 20s infinite;
+  animation: square-pic-rotation 20s infinite linear;
 }
 
 @keyframes square-pic-rotation {
